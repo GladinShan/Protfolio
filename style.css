@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container img{
+    width: 400px;
+    height: 450px;
+    border-radius: 60%;
+}
+.container{
+    padding: 16px;
+    
+}
+#profile-image{
+    text-align: center;
+    margin: -16px;    
+    background-color: #2b2222;
+    color: white;
+}
+.container h2{
+    text-align: center;
+}
+.social-links img{
+    width: 100px;
+    height: 100px;
+}
+.social-links{
+    text-align: center;
+    background-color: #7e7979;
+    margin: -16px;
+    color: white;
+}
+.container p {
+    font-size: 20px;
+}
+.hobbies-class ol{
+    font-size: 20px;
+
+}
